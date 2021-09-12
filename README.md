@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - 🔭 I'm working on: MYP personal project
 - 🌱 I;m currently learning: Machine Learning
-- 📫 How to reach me: [Instagram](http://instagram.com/atharvawasekar/), [Twitter](http://twitter.com/AtharvaWasekar)
+- 📫 How to reach me: [Instagram](http://instagram.com/atharvawasekar/), [Twitter](http://twitter.com/AtharvaWasekar), [LinkedIn](https://www.linkedin.com/in/atharvawasekar/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love anime and manga. [My Anilist profile](http://anilist.co/user/ElectricDragon/)
